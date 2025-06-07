@@ -25,13 +25,15 @@ student_result_analyzer/
 ### 📁 How to Run
 ```bash
 python main.py
-
-📊 Sample Output
+### 📊 Sample Output
 Bar Graph of Subjects
 makefile
 Copy code
 Subjects: [Math, Physics, Chemistry]
 Marks: [80, 70, 90]
+📊 Matplotlib
+![Image](https://github.com/user-attachments/assets/fab1dbc5-4cf6-4b3c-b0e3-6a79510813c6)
+![Image](https://github.com/user-attachments/assets/5e070342-38e1-4ecf-9886-8aa270775084)
 
 📌 Future Enhancements
 - GUI version using Tkinter
