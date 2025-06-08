@@ -32,7 +32,10 @@ Copy code
 Subjects: [Math, Physics, Chemistry]
 Marks: [80, 70, 90]
 📊 Matplotlib
-![image alt](https://github.com/Ramyakavitha/student-result-analyzer/blob/main/Screenshot%202025-06-07%20103226.png?raw=true)
+git add ![image alt](https://github.com/Ramyakavitha/student-result-analyzer/blob/main/Screenshot%202025-06-07%20103226.png?raw=true) student_performance.png README.md
+git commit -m "Add student performance graph image to README"
+git push
+
 
 ![image alt](https://github.com/Ramyakavitha/student-result-analyzer/blob/382b25eb6dddcf0bbc29b21a3e48e02e4a36aed1/Screenshot%202025-06-07%20103226.png)
 
