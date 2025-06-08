@@ -32,6 +32,8 @@ Copy code
 Subjects: [Math, Physics, Chemistry]
 Marks: [80, 70, 90]
 📊 Matplotlib
+![image alt](https://github.com/Ramyakavitha/student-result-analyzer/blob/382b25eb6dddcf0bbc29b21a3e48e02e4a36aed1/Screenshot%202025-06-07%20103226.png)
+
 ![Image](https://github.com/user-attachments/assets/fab1dbc5-4cf6-4b3c-b0e3-6a79510813c6)
 ![Image](https://github.com/user-attachments/assets/5e070342-38e1-4ecf-9886-8aa270775084)
 
